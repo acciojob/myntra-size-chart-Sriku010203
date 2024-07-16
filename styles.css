@@ -2,9 +2,8 @@
 .firstRow{
 	background-color:red;
 	color:white;
-	border:30px solid red;
-	width:50px
-	
+	/* border:10px solid red; */
+	text-align:left;
 }
 .Row{
 	background-color:gray;
